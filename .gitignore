@@ -18,3 +18,4 @@ BuildingEscape/Content/
 *.suo
 *.VC.opendb
 *.sln
+*.ipch
